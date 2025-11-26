@@ -146,6 +146,12 @@ Check my [Kaggle profile](https://www.kaggle.com/egortrushin).
 
 <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> [[LEAP] FFNN/PyTorch](https://www.kaggle.com/code/egortrushin/leap-ffnn-pytorch)
 
+<img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> [[Santa25] Fractional translation of solutions](https://www.kaggle.com/code/egortrushin/santa25-fractional-translation-of-solutions)
+
+<img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> [[Santa25] Translation of small-N solutions](https://www.kaggle.com/code/egortrushin/santa25-translation-of-small-n-solutions)
+
+<img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> [[Santa25] Simulated annealing with translations](https://www.kaggle.com/code/egortrushin/santa25-simulated-annealing-with-translations)
+
 </details>
 
 </details>
