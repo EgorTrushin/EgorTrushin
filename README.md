@@ -46,10 +46,12 @@ Check my [Google Scholar profile](https://scholar.google.de/citations?hl=en&user
 <details>
 <summary>Publication list</summary>
 
-1. **E. Trushin**, S. Fauser, A. Mölkner, J. Erhard, A. Görling. Reply to the Comment on "Accurate Correlation Potentials from the Self-Consistent Random Phase Approximation"
-by C. Shahi and J. P. Perdew -- Phys. Rev. Lett. 135, 019602 (2025). https://doi.org/10.1103/qhr1-788v
+1. R. Mandalia, **E. Trushin**, F. Stein, T.D. Kühne, A. Görling. Mixed Gaussian and plane wave basis set implementation of the random phase approximation and of σ-functionals within the program package CP2K - J. Chem. Phys. 163, 224115 (2025). https://doi.org/10.1063/5.0304890
 
-1. R. Mandalia, S. Fauser, **E. Trushin**, A. Görling. Assessment of RPA and σ-functional methods for the calculation of dipole moments and static polarizabilities and hyperpolarizabilities -- J. Chem. Phys. 162, 184106 (2025). https://doi.org/10.1063/5.0267912
+1. **E. Trushin**, S. Fauser, A. Mölkner, J. Erhard, A. Görling. Reply to the Comment on "Accurate Correlation Potentials from the Self-Consistent Random Phase Approximation"
+by C. Shahi and J. P. Perdew - Phys. Rev. Lett. 135, 019602 (2025). https://doi.org/10.1103/qhr1-788v
+
+1. R. Mandalia, S. Fauser, **E. Trushin**, A. Görling. Assessment of RPA and σ-functional methods for the calculation of dipole moments and static polarizabilities and hyperpolarizabilities - J. Chem. Phys. 162, 184106 (2025). https://doi.org/10.1063/5.0267912
 
 1. S. Fauser, **E. Trushin**, A. Görling. Highly precise values for the energy ratios underlying the Lieb–Oxford bound and the convexity conjecture for the adiabatic connection - J. Chem. Phys. 162, 164108 (2025). https://doi.org/10.1063/5.0263582
 
@@ -152,7 +154,7 @@ Check my [Kaggle profile](https://www.kaggle.com/egortrushin).
 
 <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> [[Santa25] Translation of small-N solutions](https://www.kaggle.com/code/egortrushin/santa25-translation-of-small-n-solutions)
 
-<img src="https://www.kaggle.com/static/images/medals/competitions/bronzel@1x.png" width="18" height="18"/> [[Santa25] Improved SA with translations](https://www.kaggle.com/code/egortrushin/santa25-improved-sa-with-translations)
+<img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> [[Santa25] Improved SA with translations](https://www.kaggle.com/code/egortrushin/santa25-improved-sa-with-translations)
 
 </details>
 
