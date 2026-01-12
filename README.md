@@ -46,6 +46,8 @@ Check my [Google Scholar profile](https://scholar.google.de/citations?hl=en&user
 <details>
 <summary>Publication list</summary>
 
+1. **E. Trushin**, R. Mandalia, A. Görling. Analyzing the response of exchange–correlation potentials of chain-like molecules to electric fields by Kohn–Sham inversion and evaluation of the response within the random phase approximation - J. Chem. Phys. 163, 244115 (2025). https://doi.org/10.1063/5.0294687
+
 1. R. Mandalia, **E. Trushin**, F. Stein, T.D. Kühne, A. Görling. Mixed Gaussian and plane wave basis set implementation of the random phase approximation and of σ-functionals within the program package CP2K - J. Chem. Phys. 163, 224115 (2025). https://doi.org/10.1063/5.0304890
 
 1. **E. Trushin**, S. Fauser, A. Mölkner, J. Erhard, A. Görling. Reply to the Comment on "Accurate Correlation Potentials from the Self-Consistent Random Phase Approximation"
