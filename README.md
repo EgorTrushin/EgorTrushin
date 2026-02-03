@@ -115,7 +115,9 @@ Check my [Kaggle profile](https://www.kaggle.com/egortrushin).
 <details>
 <summary>Medals in Kaggle competitions</summary>
 
-<img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> 10th of 1514 [Santa 2024 - The Perplexity Permutation Puzzle](https://www.kaggle.com/competitions/santa-2024) - Help Rudolph descramble holiday-related words to make the LLMs happy!
+<img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> 10th of 1514 [Santa 2024 - The Perplexity Permutation Puzzle](https://www.kaggle.com/competitions/santa-2024) - Help Rudolph descramble holiday-related words to make the LLMs happy
+
+<img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> 12th of 3357 [Santa 2025 - Christmas Tree Packing Challenge](https://www.kaggle.com/competitions/santa-2025/) - How many Christmas trees can fit in a box? Help solve a classic optimization problem with a festive twist
   
 <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 21st of 2605 [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/competitions/ventilator-pressure-prediction) - Simulate a ventilator connected to a sedated patient's lung
 
