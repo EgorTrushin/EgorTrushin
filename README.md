@@ -12,9 +12,8 @@
 
 Welcome to my page!
 
-My name is Egor Trushin. I am researcher with over 10 years of professional experience in computational physics and chemistry, where I have acquired skills in programming, high performance computing, data analysis, algorithms, etc. I have publications in top-tier peer-reviewed journals such as Physical Review Letters and The Proceedings of the National Academy of Sciences. I also have a solid background in competitive data science and machine learning, holding the title of Kaggle Competitions Master with top results in a number of competitions.
-
-I am a contributor to major computational chemistry codes, such as [Molrpo](https://www.molpro.net/) and [PySCF](https://pyscf.org/).
+My name is Egor Trushin. I am researcher with over 10 years of professional experience in computational physics and chemistry, where I have acquired skills in programming, high performance computing, data analysis, algorithms, etc. I have published in top-tier peer-reviewed journals such as Physical Review Letters and The Proceedings of the National Academy of Sciences, and have contributed to major quantum chemistry software codes such as [Molrpo](https://www.molpro.net/) and [PySCF](https://pyscf.org/).  
+I also have extensive experience in competitive data science and machine learning, having achieved the Kaggle Competitions Master title. I was in the top 1–5\% of participants (winning 2 gold and 7 silver medals) in competitions related to heuristic optimization, computer vision, natural language processing, time-series prediction, and classical machine learning.
 
 <details>
 <summary><b>Education</b></summary>
