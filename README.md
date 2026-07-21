@@ -12,8 +12,8 @@
 
 Welcome to my page!
 
-My name is Egor Trushin. I am researcher with over 10 years of professional experience in computational physics and chemistry, where I have acquired skills in programming, high performance computing, data analysis, algorithms, etc. I have published in top-tier peer-reviewed journals such as Physical Review Letters and The Proceedings of the National Academy of Sciences, and have contributed to major quantum chemistry software codes such as [Molrpo](https://www.molpro.net/) and [PySCF](https://pyscf.org/).  
-I also have extensive experience in competitive data science and machine learning, having achieved the Kaggle Competitions Master title. I was in the top 1–5\% of participants (winning 2 gold and 7 silver medals) in competitions related to heuristic optimization, computer vision, natural language processing, time-series prediction, and classical machine learning.
+My name is Egor Trushin. I am a researcher with over 10 years of professional experience in computational physics and chemistry, where I have acquired skills in programming, high-performance computing, data analysis, algorithms, etc. I have published in top-tier peer-reviewed journals such as Physical Review Letters and Proceedings of the National Academy of Sciences, and have contributed to major quantum chemistry software packages such as [Molpro](https://www.molpro.net/) and [PySCF](https://pyscf.org/).  
+I also have extensive experience in competitive data science and machine learning, having achieved the Kaggle Competitions Master title. I was in the top 1–5% of participants (winning 3 gold and 7 silver medals) in competitions related to heuristic optimization, computer vision, natural language processing, time-series prediction, classical machine learning, and generative and agentic AI.
 
 <details>
 <summary><b>Education</b></summary>
@@ -115,6 +115,8 @@ Check my [Kaggle profile](https://www.kaggle.com/egortrushin).
 <summary>Medals in Kaggle competitions</summary>
 
 <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> 10th of 1514 [Santa 2024 - The Perplexity Permutation Puzzle](https://www.kaggle.com/competitions/santa-2024) - Help Rudolph descramble holiday-related words to make the LLMs happy
+
+<img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> 11th of 2963 [The 2026 NeuroGolf Championship](https://www.kaggle.com/competitions/neurogolf-2026) - Design the smallest neural networks to solve ARC-AGI image transformations
 
 <img src="https://www.kaggle.com/static/images/medals/competitions/goldl@1x.png" width="18" height="18"/> 12th of 3357 [Santa 2025 - Christmas Tree Packing Challenge](https://www.kaggle.com/competitions/santa-2025/) - How many Christmas trees can fit in a box? Help solve a classic optimization problem with a festive twist
   
