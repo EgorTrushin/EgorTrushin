@@ -45,6 +45,8 @@ Check my [Google Scholar profile](https://scholar.google.de/citations?hl=en&user
 <details>
 <summary>Publication list</summary>
 
+1. **E. Trushin**, O. Bertleff, A. Görling. Potential-Averaged ΔSCF Methods: Underlying Formalism and Evaluation of Accuracy of Excitation Energies - J. Chem. Theory Comput. (2026) 22 (16): 8324–8349. https://doi.org/10.1021/acs.jctc.6c00983
+
 1. **E. Trushin**, R. Mandalia, A. Görling. Analyzing the response of exchange–correlation potentials of chain-like molecules to electric fields by Kohn–Sham inversion and evaluation of the response within the random phase approximation - J. Chem. Phys. 163, 244115 (2025). https://doi.org/10.1063/5.0294687
 
 1. R. Mandalia, **E. Trushin**, F. Stein, T.D. Kühne, A. Görling. Mixed Gaussian and plane wave basis set implementation of the random phase approximation and of σ-functionals within the program package CP2K - J. Chem. Phys. 163, 224115 (2025). https://doi.org/10.1063/5.0304890
