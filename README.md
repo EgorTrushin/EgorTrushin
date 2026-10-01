@@ -13,7 +13,7 @@
 Welcome to my page!
 
 My name is Egor Trushin. I am a researcher with over 10 years of professional experience in computational physics and chemistry, where I have acquired skills in programming, high-performance computing, data analysis, algorithms, etc. I have published in top-tier peer-reviewed journals such as Physical Review Letters and Proceedings of the National Academy of Sciences, and have contributed to major quantum chemistry software packages such as [Molpro](https://www.molpro.net/) and [PySCF](https://pyscf.org/).  
-I also have extensive experience in competitive data science and machine learning, having achieved the Kaggle Competitions Master title. I was in the top 1–5% of participants (winning 3 gold and 7 silver medals) in competitions related to heuristic optimization, computer vision, natural language processing, time-series prediction, classical machine learning, and generative and agentic AI.
+I also have extensive experience in competitive data science and machine learning, having achieved the Kaggle Competitions Master title. I was in the top 1–5% of participants (winning 3 gold and 8 silver medals) in competitions related to heuristic optimization, computer vision, natural language processing, time-series prediction, classical machine learning, and generative and agentic AI.
 
 <details>
 <summary><b>Education</b></summary>
@@ -27,12 +27,13 @@ I also have extensive experience in competitive data science and machine learnin
 <details>
 <summary><b>Professional experience</b></summary>
 
-- 2022-Present: **Liaison scientist**, *Erlangen National High Performance Computing Center (NHR@FAU)*, University of Erlangen–Nuremberg, Erlangen, Germany
-- 2022-Present: **Research assistant**, *Chair of Theoretical Chemistry*, University of Erlangen–Nuremberg, Erlangen, Germany
-- 2022/02-2022/10: **Research assistant**, *Machine Learning Group and Berlin Institute for the Foundations of Learning and Data (BIFOLD)*, Technical University of Berlin, Berlin, Germany
-- 2022/02-2022/10: **Research assistant**, *Artificial Intelligence for the Sciences (AI4Science) Group*, Free University of Berlin, Berlin, Germany
-- 2021-2022: **Liaison scientist**, *Erlangen National High Performance Computing Center (NHR@FAU)*, University of Erlangen–Nuremberg, Erlangen, Germany
-- 2012-2022: **Research assistant**, *Chair of Theoretical Chemistry*, University of Erlangen–Nuremberg, Erlangen, Germany
+- 2026-present: **Postdoctoral Researcher** *Center for Advanced Systems Understanding (CASUS)*, Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Görlitz, Germany
+- 2022/11-2026: **Liaison scientist**, *Erlangen National High Performance Computing Center (NHR@FAU)*, University of Erlangen–Nuremberg, Erlangen, Germany
+- 2022/11-2026: **Postdoctoral Researcher**, *Chair of Theoretical Chemistry*, University of Erlangen–Nuremberg, Erlangen, Germany
+- 2022/02-2022/10: **Postdoctoral Researcher**, *Artificial Intelligence for the Sciences (AI4Science) Group*, Free University of Berlin, Berlin, Germany (*Funded through the Machine Learning Group and Berlin Institute for the Foundations of Learning and Data (BIFOLD), Technical University of Berlin*)
+- 2021-2022/01: **Liaison scientist**, *Erlangen National High Performance Computing Center (NHR@FAU)*, University of Erlangen–Nuremberg, Erlangen, Germany
+- 2018-2022/01: **Postdoctoral Researcher**, *Chair of Theoretical Chemistry*, University of Erlangen–Nuremberg, Erlangen, Germany
+- 2012-2018: **Doctoral Researcher**, *Chair of Theoretical Chemistry*, University of Erlangen–Nuremberg, Erlangen, Germany
 - 2009-2012: **Research assistant**, *Quantum Chemistry Laboratory*, Boreskov Institute of Catalysis, Novosibirsk, Russia
 
 </details>
@@ -131,6 +132,8 @@ Check my [Kaggle profile](https://www.kaggle.com/egortrushin).
 <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 28th of 1889 [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) - Help Identify Similar Phrases in U.S. Patents
 
 <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 38th of 1219 [G2Net Gravitational Wave Detection](https://www.kaggle.com/competitions/g2net-gravitational-wave-detection) - Find gravitational wave signals from binary black hole collisions
+
+<img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 44th of 3947 [Biohub - Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development) - Detect and track zebrafish cells through 3D space and time
 
 <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 66th of 3858 [Home Credit - Credit Risk Model Stability](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability) - Create a model measured against feature stability over time
 
