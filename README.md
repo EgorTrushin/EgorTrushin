@@ -131,7 +131,7 @@ Check my [Kaggle profile](https://www.kaggle.com/egortrushin).
   
 <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 21st of 2605 [Google Brain - Ventilator Pressure Prediction](https://www.kaggle.com/competitions/ventilator-pressure-prediction) - Simulate a ventilator connected to a sedated patient's lung
 
-<img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 24th of 964 [Google Research - Identify Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/ventilator-pressure-prediction) - Train ML models to identify contrails in satellite images and help prevent their formation
+<img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 24th of 964 [Google Research - Identify Contrails to Reduce Global Warming](https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming) - Train ML models to identify contrails in satellite images and help prevent their formation
 
 <img src="https://www.kaggle.com/static/images/medals/competitions/silverl@1x.png" width="18" height="18"/> 28th of 1889 [U.S. Patent Phrase to Phrase Matching](https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching) - Help Identify Similar Phrases in U.S. Patents
 
