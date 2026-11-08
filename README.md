@@ -18,7 +18,7 @@
   </a>
 </p>
 
-I am a researcher with over 10 years of professional experience in computational physics and chemistry, where I have acquired skills in programming, high-performance computing, data analysis, algorithms, etc. I have published in top-tier peer-reviewed journals such as Physical Review Letters and Proceedings of the National Academy of Sciences, and have contributed to major quantum chemistry software packages such as [Molpro](https://www.molpro.net/) and [PySCF](https://pyscf.org/).  
+I am a researcher with over 10 years of professional experience in computational physics and chemistry, where I have acquired skills in programming, high-performance computing, data analysis, algorithms, etc. I have published in top-tier peer-reviewed journals such as Physical Review Letters and Proceedings of the National Academy of Sciences, and have contributed to major quantum chemistry software packages such as [CP2K](https://www.cp2k.org/), [Molpro](https://www.molpro.net/) and [PySCF](https://pyscf.org/).  
 I also have extensive experience in competitive data science and machine learning, having achieved the Kaggle Competitions Master title. I was in the top 1–5% of participants (winning 3 gold and 8 silver medals) in competitions related to heuristic optimization, computer vision, natural language processing, time-series prediction, classical machine learning, and generative and agentic AI.
 
 <details>
