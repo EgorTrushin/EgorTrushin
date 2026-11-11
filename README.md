@@ -53,7 +53,7 @@ Check my [Google Scholar profile](https://scholar.google.de/citations?hl=en&user
 <details>
 <summary>Publication list</summary>
 
-1. O. Bertleff, **E. Trushin**, A. Görling. Multistate-Averaged Kohn–Sham $\Delta$SCF Method for Excitation Energies, Transition Properties, and Absorption Spectra and Its Relation to Ensemble Density Functional Theory - J. Chem. Theory Comput. (2026). https://doi.org/10.1021/acs.jctc.6c01397
+1. O. Bertleff, **E. Trushin**, A. Görling. Multistate-Averaged Kohn–Sham $\Delta$SCF Method for Excitation Energies, Transition Properties, and Absorption Spectra and Its Relation to Ensemble Density Functional Theory - J. Chem. Theory Comput. (2026) 22 (21): 11347–11371. https://doi.org/10.1021/acs.jctc.6c01397
 
 1. **E. Trushin**, R. Mandalia, A. Görling. Accurate electron affinities from anion HOMO energies within the self-consistent random phase approximation - J. Chem. Phys. 165, 134115 (2026). https://doi.org/10.1063/5.0345799
 
